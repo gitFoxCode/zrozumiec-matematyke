@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="462" height="260" viewBox="0 0 462 260">
+  <g id="Group_80" data-name="Group 80" transform="translate(-835 -3810)">
+    <g id="Group_79" data-name="Group 79">
+      <g id="Group_78" data-name="Group 78">
+        <text id="PRAWDOPODOBIEŃSTWO_ZNALEZIENIA_SIĘ_NA_TYM_ŁUKU" data-name="PRAWDOPODOBIEŃSTWO ZNALEZIENIA
+ SIĘ NA TYM ŁUKU" transform="translate(1066 3835)" fill="#aa18e6" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-230.472" y="0">PRAWDOPODOBIEŃSTWO ZNALEZIENIA</tspan><tspan x="-101.448" y="35" xml:space="preserve"> SIĘ NA TYM ŁUKU</tspan></text>
+        <text id="Długość_łuku" data-name="Długość łuku" transform="translate(1066 4002)" fill="#188de6" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-80.496" y="0">Długość łuku</tspan></text>
+        <text id="Obwód_koła" data-name="Obwód koła" transform="translate(1066 4062)" fill="#e1e1e1" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-73.404" y="0">Obwód koła</tspan></text>
+        <line id="Line_32" data-name="Line 32" y2="30" transform="translate(1055.5 3912.5)" fill="none" stroke="#aa18e6" stroke-width="6"/>
+        <line id="Line_33" data-name="Line 33" y2="30" transform="translate(1077.5 3912.5)" fill="none" stroke="#aa18e6" stroke-width="6"/>
+        <line id="Line_34" data-name="Line 34" x2="209" transform="translate(962.5 4023.5)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
