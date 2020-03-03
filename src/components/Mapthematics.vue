@@ -151,8 +151,8 @@ export default {
 	},
 	methods: {
 		openModal: function (e) {
-			let number = e.target.dataset.modalId;
-			let modal = this.modalData[(number * 1) - 1];
+			const number = e.target.dataset.modalId;
+			const modal = this.modalData[(number * 1) - 1];
 			this.modalTitle = modal.title;
 			this.modalContent = modal.content;
 			this.modalStyle = 'display: block;';
