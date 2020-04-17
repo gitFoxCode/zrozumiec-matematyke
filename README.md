@@ -2,6 +2,7 @@
 
 Strona internetowa stworzona na potrzeby konkursu:  [Zobaczyć Matematykę](http://www.zobaczycmatematyke.pl/)
 Podczas tworzenia strony przyświecał mi pomysł "Żeby zobaczyć matematykę trzeba ją zrozumieć" - stąd tytuł.
+
 "Nic nie jest szczególnie trudne do zrobienia, jeśli tylko rozłożyć to na etapy" ~ Henry Ford
 
 ## Instalacja wersji produkcyjnej
